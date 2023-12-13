@@ -1,0 +1,37 @@
+body {
+  padding: 20px; // Add some padding to the body
+}
+
+.container {
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+
+  p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+
+  .row {
+    margin-bottom: 20px; // Add some space between rows
+  }
+
+}
+
+.pied-de-page {
+  text-align: center; // Center the content of the footer
+}
+.col-md-6{
+  color: rgb(16, 217, 16);
+}
